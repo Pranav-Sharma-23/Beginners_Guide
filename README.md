@@ -4,6 +4,7 @@ Please add free best resources to learn and contribute to beginners in the open 
 
 ### Web Development
 Please add link of best resources to learn and contributing repositories here for Web Development.
+www.w3schools.com
 
 ### Machine Learning
 Please add link of best resources to learn and contributing repositories here for Machine Learning.
